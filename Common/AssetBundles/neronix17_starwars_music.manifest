@@ -1,0 +1,64 @@
+ManifestFileVersion: 0
+CRC: 1031425222
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 65231cb0117cb3f66d77a9bd09c7484e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ce3b6d18a872ca8039cd5eb3c4fb7ef5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 65231cb0117cb3f66d77a9bd09c7484e
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Bogano.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Night/Kidnapped.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Night/Dreaming.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Day/IlumTheTemple.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/TheAstrium.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/KashyyykTheWild.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Day/FailureIsNotTheEnd.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Day/ToKashyyyk.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/TombOfEilram.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Night/Dathomir.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/EndOfTheSecondSister.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Day/ShyyyoFlight.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/TheInquisition.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/MessyGetaway.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/AgainstTheStormtroopers.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Day/BloodOfTheMaster.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/TheRefinery.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Day/AuthorisedTrash.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/FangAndClaw.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/StrangeOne.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/WarInTheSkies.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/TheNinthSister.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/BountyHunters.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Misc/ThrawnEpic_SamuelKim.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Day/MysteriesOfTheZeffo.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/TheDemonOfTheCanyon.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Night/TheVault.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/RiseAJedi.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/PurgeTroopers.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/FightOnTheSarcophagus.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Night/ANewAlly.ogg
+- Assets/Data/neronix17.starwars.music/Textures/OuterRim/ModIcon.png
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/BeadieOne.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/AgainstTheNight.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/EscapingTheEmpire.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Day/WreckageOfTheVenator.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/ALightsaberReforged.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Night/WhatStandsInTheWay.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Misc/Credits.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Tension/WarOfTheTrees.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/TombOfMiktrull.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Night/ADarkTale.ogg
+- Assets/Data/neronix17.starwars.music/Sounds/OuterRimMusic/Gameplay/Liberation.ogg
+Dependencies: []
